@@ -22,8 +22,8 @@ title: Mi primer Blog de Alejo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Este es mi primer blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog2028" # the subpath of your site, e.g. /blog
+url: "http://Alejor07.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  Alejor07
 
